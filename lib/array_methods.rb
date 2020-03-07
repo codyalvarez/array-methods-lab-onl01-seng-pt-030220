@@ -14,7 +14,7 @@ def using_reverse(array)
 end
 
 def using_first(array)
-  array.unshift
+  array[0]
 
 end
 
